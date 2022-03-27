@@ -1,1 +1,1 @@
-web: python hms-kiit/manage.py runserver 0.0.0.0:$PORT
+web: python HMS_Major_Project/manage.py runserver 0.0.0.0:$PORT
