@@ -1,1 +1,1 @@
-web: python website/manage.py runserver 
+web: python hms-kiit/manage.py runserver 
